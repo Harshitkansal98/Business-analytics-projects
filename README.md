@@ -1,2 +1,2 @@
 # Business-analytics-projects
-Various projects that i did throughout my studies.
+Business Insights & Analytics student | Passionate about data processing and visualization | Exploring SQL, Python, and Power BI
